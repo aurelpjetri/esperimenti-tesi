@@ -6,6 +6,16 @@
 6217.34user 15.40system 55:38.42elapsed 186%CPU (0avgtext+0avgdata 1295700maxresident)k
 0inputs+4848outputs (0major+530579minor)pagefaults 0swaps
 
+3) ESERIMENTO - MONOLITICO 3
+6330.98user 16.14system 57:08.37elapsed 185%CPU (0avgtext+0avgdata 1278360maxresident)k
+0inputs+4968outputs (0major+551072minor)pagefaults 0swaps
+
+4) ESPERIMENTO - A1
+33638.18user 60.44system 3:16:25elapsed 285%CPU (0avgtext+0avgdata 1320740maxresident)k
+0inputs+16320outputs (0major+706040minor)pagefaults 0swaps
+
+
+
 x) ESPERIMENTO - d1
 3422.75user 10.82system 27:26.40elapsed 208%CPU (0avgtext+0avgdata 1123616maxresident)k
 3400inputs+3536outputs (2major+463516minor)pagefaults 0swaps

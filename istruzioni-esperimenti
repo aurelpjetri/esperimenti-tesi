@@ -1,0 +1,23 @@
+comando per lanciare esperimenti:
+ time java -Xmx1024m -Dfile.encoding=UTF-8 -cp NetLogo.jar org.nlogo.headless.Main --model ~/generated/complete.xml/model.nlogo --setup-file ~/generated/complete.xml/exp_movers.xml
+cambia complete.xml per cambiare l'xml da lanciare
+
+1) spostati in netlogo/app
+2)
+
+
+usa tmux (https://gist.github.com/MohamedAlaa/2961058)
+per attivare i comandi di tmux : ctrl+B
+
+per vedere in che cartella sono: pwd
+
+per uscire da una sessione tmux: ctrl+ B  ctrl+D
+
+
+1) ssh beatrice
+2) cd netogo/app
+3) tmux a -t experiment
+4)
+time java -Xmx1024m -Dfile.encoding=UTF-8 -cp NetLogo.jar org.nlogo.headless.Main --model ~/generated/a3.xml/model.nlogo --setup-file ~/generated/a3.xml/exp_movers.xml
+5) ctrl+B ctrl+D
+6) ctrl+D

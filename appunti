@@ -1,0 +1,26 @@
+Gli esperimenti lanciati su A1 ecc sono su tre casi diversi con tre quantità diverse di persone. Questi modelli sono RIGENERATIVI , in modo da avere i tempi di soggiorno relativi a uno stato del sistema con una desità di affollamento costante.
+
+Faccio molti run per avere sufficenti dati per avere una media
+
+io devo fare il confronto fra i tempi di simulazione.
+per il monolitico
+
+con lo stady-state posso catturare in modo piu fedele il comportamento d quella zona. uno stato molto più rappresentativo della zona
+
+il discorso è che io ho bisogno di una quantità di dati sufficente a permettermi di fare determinate approssimazioni, quindi o lo faccio col rigenerativo e quindi lo faccio andare avanti fino che non ho raccolto quei dati, oppure lanciao n volte quello transitivo fino per avere i miei dati. Questo perche quando ho lanciato la simulazione col modello transiente raccolgo tanti dati quanti sono gli attori all'interno dell'ambiente.
+
+
+PRESENTAZIONE
+1 slide simulazione
+1 uml struttura centrale
+1 uml builder
+1 visitor
+2 o 3 sui risultati delle simulazioni (tempi di simulazioni)
+
+
+prendi modello completo e cambi la forma dei beacon in cerchio, colore verde, size = 2.
+chiedi alle patches set pcolor 8
+
+gimp per manipolare png
+
+faccio tutti i transitivi

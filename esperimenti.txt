@@ -37,3 +37,7 @@
 10) ESPERIMENTO - D1
 3422.75user 10.82system 27:26.40elapsed 208%CPU (0avgtext+0avgdata 1123616maxresident)k
 3400inputs+3536outputs (2major+463516minor)pagefaults 0swaps
+
+11) ESPERIMENTO - D2
+3988.84user 11.69system 29:15.90elapsed 227%CPU (0avgtext+0avgdata 1154228maxresident)k
+0inputs+3864outputs (0major+481678minor)pagefaults 0swaps

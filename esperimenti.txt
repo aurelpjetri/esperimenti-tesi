@@ -30,6 +30,10 @@
 29014.66user 53.74system 2:36:25elapsed 309%CPU (0avgtext+0avgdata 1333696maxresident)k
 0inputs+14400outputs (0major+644422minor)pagefaults 0swaps
 
-x) ESPERIMENTO - d1
+9) ESPERIMENTO - A6
+15005.52user 30.25system 1:46:20elapsed 235%CPU (0avgtext+0avgdata 1311332maxresident)k
+0inputs+11960outputs (0major+560403minor)pagefaults 0swaps
+
+10) ESPERIMENTO - D1
 3422.75user 10.82system 27:26.40elapsed 208%CPU (0avgtext+0avgdata 1123616maxresident)k
 3400inputs+3536outputs (2major+463516minor)pagefaults 0swaps

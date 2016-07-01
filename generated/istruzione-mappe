@@ -1,0 +1,6 @@
+to qwe
+  ask beacons [set color green set size 2 set shape "circle"]
+  ask patches [set pcolor 8]
+  ask links [set color black]
+  export-view "../images/D/mappa-d1.png"
+end

@@ -1,0 +1,77 @@
+1) ESPERIMENTO - A1
+65.19user 1.14system 0:18.45elapsed 359%CPU (0avgtext+0avgdata 702160maxresident)k
+0inputs+144outputs (0major+315749minor)pagefaults 0swaps
+
+2) ESPERIMENTO - A2
+64.55user 1.04system 0:16.30elapsed 402%CPU (0avgtext+0avgdata 685896maxresident)k
+0inputs+144outputs (0major+307720minor)pagefaults 0swaps
+
+
+3) ESPERIMENTO - A3
+72.29user 1.22system 0:21.44elapsed 342%CPU (0avgtext+0avgdata 704460maxresident)k
+0inputs+184outputs (0major+327464minor)pagefaults 0swaps
+
+4) ESPERIMENTO - A4
+101.36user 1.30system 0:36.18elapsed 283%CPU (0avgtext+0avgdata 715604maxresident)k
+0inputs+312outputs (0major+322083minor)pagefaults 0swaps
+
+5) ESPERIMENTO - A5
+73.40user 1.13system 0:21.25elapsed 350%CPU (0avgtext+0avgdata 709444maxresident)k
+0inputs+184outputs (0major+337488minor)pagefaults 0swaps
+
+6) ESPERIMENTO - A6
+62.59user 1.13system 0:17.56elapsed 362%CPU (0avgtext+0avgdata 702668maxresident)k
+0inputs+248outputs (0major+319844minor)pagefaults 0swaps
+
+7) ESPERIMENTO - D1
+55.44user 1.14system 0:12.02elapsed 470%CPU (0avgtext+0avgdata 671736maxresident)k
+0inputs+112outputs (0major+322976minor)pagefaults 0swaps
+
+8) ESPERIMENTO - D2
+54.08user 1.07system 0:12.54elapsed 439%CPU (0avgtext+0avgdata 680616maxresident)k
+0inputs+112outputs (0major+321951minor)pagefaults 0swaps
+
+9) ESPERIMENTO - D3
+49.51user 1.12system 0:11.38elapsed 444%CPU (0avgtext+0avgdata 679232maxresident)k
+0inputs+112outputs (0major+296692minor)pagefaults 0swaps
+
+
+10)ESPERIMENTO - D4
+47.31user 1.04system 0:11.46elapsed 421%CPU (0avgtext+0avgdata 667976maxresident)k
+0inputs+112outputs (0major+309996minor)pagefaults 0swaps
+
+
+11)ESPERIMENTO - D5
+49.42user 1.14system 0:11.19elapsed 451%CPU (0avgtext+0avgdata 686800maxresident)k
+0inputs+112outputs (0major+310524minor)pagefaults 0swaps
+
+12)ESPERIMENTO - D6
+51.24user 1.18system 0:11.67elapsed 448%CPU (0avgtext+0avgdata 701844maxresident)k
+0inputs+112outputs (0major+291087minor)pagefaults 0swaps
+
+
+13)ESPERIMENTO - D7
+50.59user 1.09system 0:11.68elapsed 442%CPU (0avgtext+0avgdata 687116maxresident)k
+0inputs+112outputs (0major+306821minor)pagefaults 0swaps
+
+14)ESPERIMENTO - D8
+56.06user 1.09system 0:12.71elapsed 449%CPU (0avgtext+0avgdata 694244maxresident)k
+0inputs+112outputs (0major+322557minor)pagefaults 0swaps
+
+15)ESPERIMENTO - D9
+51.82user 1.22system 0:11.65elapsed 455%CPU (0avgtext+0avgdata 683536maxresident)k
+0inputs+112outputs (0major+344867minor)pagefaults 0swaps
+
+
+16)ESPERIMENTO - D10
+51.66user 1.18system 0:11.77elapsed 448%CPU (0avgtext+0avgdata 701356maxresident)k
+0inputs+112outputs (0major+270185minor)pagefaults 0swaps
+
+17)ESPERIMENTO - D11
+46.56user 1.11system 0:10.45elapsed 456%CPU (0avgtext+0avgdata 701380maxresident)k
+0inputs+112outputs (0major+293905minor)pagefaults 0swaps
+
+
+18)ESPERIMENTO - D12
+47.68user 1.07system 0:10.97elapsed 444%CPU (0avgtext+0avgdata 689452maxresident)k
+0inputs+112outputs (0major+304367minor)pagefaults 0swaps

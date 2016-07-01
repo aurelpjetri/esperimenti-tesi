@@ -60,6 +60,8 @@
 
 
 16)ESPERIMENTO - D7
+1609.48user 6.37system 12:58.50elapsed 207%CPU (0avgtext+0avgdata 1071764maxresident)k
+0inputs+2496outputs (0major+437411minor)pagefaults 0swaps
 
 
 17)ESPERIMENTO - D8

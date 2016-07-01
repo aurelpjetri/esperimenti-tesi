@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE experiments SYSTEM "behaviorspace.dtd">
+
+<experiments>
+  <experiment name="generate-map" repetitions="1" runMetricsEveryStep="false">
+    <setup>setup</setup>
+    <final>export</final>
+    <timeLimit steps="1"/>
+    <enumeratedValueSet variable="export-filename">
+      <value value="&quot;netlogo.map&quot;"/>
+    </enumeratedValueSet>
+  </experiment>
+</experiments>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE experiments SYSTEM "behaviorspace.dtd">
+
+<experiments>
+  <experiment name="a2.xml" repetitions="1" runMetricsEveryStep="false">
+    <setup>setup-uni</setup>
+    <go>go</go>
+    <final>register-results</final>
+    <timeLimit steps="2000"/>
+    <enumeratedValueSet variable="import-filename">
+      <value value="&quot;netlogo.map&quot;"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="results-dir">
+      <value value="&quot;results&quot;"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="global-movers">
+          <value value="958"/>
+          <value value="479"/>
+          <value value="95"/>
+        </enumeratedValueSet>
+    <enumeratedValueSet variable="use-entries">
+      <value value="false"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="regenerative-model?">
+      <value value="True"/>
+    </enumeratedValueSet>
+  </experiment>
+</experiments>

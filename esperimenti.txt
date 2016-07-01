@@ -45,3 +45,33 @@
 12) ESPERIMENTO - D3
 7486.21user 18.26system 49:46.37elapsed 251%CPU (0avgtext+0avgdata 1324560maxresident)k
 0inputs+6448outputs (0major+541276minor)pagefaults 0swaps
+
+13)ESPERIMENTO - D4
+4118.50user 11.95system 29:48.04elapsed 231%CPU (0avgtext+0avgdata 1278528maxresident)k
+0inputs+4336outputs (0major+533642minor)pagefaults 0swaps
+
+14)ESPERIMENTO - D5
+6285.12user 15.99system 42:43.85elapsed 245%CPU (0avgtext+0avgdata 1320836maxresident)k
+0inputs+5840outputs (0major+518511minor)pagefaults 0swaps
+
+15)ESPERIMENTO - D6
+5555.40user 14.58system 37:23.94elapsed 248%CPU (0avgtext+0avgdata 1313204maxresident)k
+0inputs+5368outputs (0major+570560minor)pagefaults 0swaps
+
+
+16)ESPERIMENTO - D7
+
+
+17)ESPERIMENTO - D8
+
+
+18)ESPERIMENTO - D9
+
+
+19)ESPERIMENTO - D10
+
+
+20)ESPERIMENTO - D11
+
+
+21)ESPERIMENTO - D12

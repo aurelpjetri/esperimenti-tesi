@@ -18,7 +18,7 @@ per uscire da una sessione tmux: ctrl+ B  ctrl+D
 2) cd netogo/app
 3) tmux a -t experiment
 4)
-time java -Xmx1024m -Dfile.encoding=UTF-8 -cp NetLogo.jar org.nlogo.headless.Main --model ~/generated/d12.xml/model.nlogo --setup-file ~/generated/d12.xml/exp_movers.xml
+time java -Xmx1024m -Dfile.encoding=UTF-8 -cp NetLogo.jar org.nlogo.headless.Main --model ~/generated/d5.xml/model.nlogo --setup-file ~/generated/d5.xml/exp_movers.xml
 5) ctrl+B ctrl+D
 6) ctrl+D
 

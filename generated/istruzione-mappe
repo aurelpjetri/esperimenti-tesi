@@ -1,6 +1,6 @@
 to qwe
   ask beacons [set color green set size 2 set shape "circle"]
   ask patches [set pcolor 8]
-  ask links [set color black]
-  export-view "../images/D/mappa-d1.png"
+  ask links [set color black set thickness 0.4]
+  export-view "/home/aurel/Scrivania/mappa.png"
 end

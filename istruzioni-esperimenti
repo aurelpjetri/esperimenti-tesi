@@ -25,3 +25,5 @@ time java -Xmx1024m -Dfile.encoding=UTF-8 -cp NetLogo.jar org.nlogo.headless.Mai
 PER ESPERIMENTI NON RIGENERATIVI
 
 time java -Xmx1024m -Dfile.encoding=UTF-8 -cp NetLogo.jar org.nlogo.headless.Main --model ~/generated/d12.xml/model.nlogo --setup-file ~/generated/d12.xml/exp_non_regenerative.xml
+
+rsync -r beatrice:generated Documenti/SWE/experiments
